@@ -3,6 +3,11 @@
 |---|---|
 |[掘金博客地址](https://juejin.cn/user/2999123453685943)|[简书博客地址](https://www.jianshu.com/u/4abd568623a2)|
 
+- 🔭 I’m currently working on 海康卫视·萤石
+- 🌱 I’m currently learning Flutter
+- 💬 Ask me about :Android开发攻城狮、熟java、会Flutter、懂Python，略玩SpringBoot、Php
+- 📫 How to reach me: naildingmouren@gmail.com
+
 <!--
 **DingMouRen/DingMouRen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
