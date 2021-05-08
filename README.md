@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 我是钉某人 👋
+|掘金|简书|
+|---|---|
+|[掘金](https://juejin.cn/user/2999123453685943)|[简书](https://www.jianshu.com/u/4abd568623a2)|
 
 <!--
 **DingMouRen/DingMouRen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
