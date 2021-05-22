@@ -8,6 +8,8 @@
 - 💬 Ask me about :Android开发攻城狮、熟java、会Flutter、懂Python，略玩SpringBoot、Php
 - 📫 How to reach me: naildingmouren@gmail.com
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=DingMouRen&show_icons=true)
+
 <!--
 **DingMouRen/DingMouRen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
