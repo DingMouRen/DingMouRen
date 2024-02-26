@@ -6,7 +6,7 @@
 |---|---|
 |[掘金博客地址](https://juejin.cn/user/2999123453685943)|[简书博客地址](https://www.jianshu.com/u/4abd568623a2)|
 
-- 💬 Ask me about :Android开发攻城狮、熟java、会Flutter、懂Python，玩Compose
+- 💬 Ask me about :Android开发攻城狮、熟java、会Flutter、懂Python、玩Compose、鸿蒙也能玩
 - 📫 How to reach me: naildingmouren@gmail.com
 
 
